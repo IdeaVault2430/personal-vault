@@ -1,0 +1,12 @@
+# virtual environment
+.venv/
+
+# secrets
+*.key
+*.bin
+*.bak
+vault.json
+
+# python cache
+__pycache__/
+*.pyc
